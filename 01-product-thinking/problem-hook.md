@@ -26,13 +26,13 @@ _The specific point where the product fails the user, forcing a manual workaroun
 
 _One urgent sentence fusing the business risk and the user pain, your pitch for why this is the most important thing to work on right now._
 
-> We must solve [business risk] by addressing [user pain]…
+> We must stop losing users to free built-in health apps by ending the chore of logging every glass by hand, which makes people give up in their first week and go back to forgetting to drink.
 
 ## 5. Value proposition
 
 _Who it's for, the new value, and why it's urgent to launch now._
 
-> For **[who]**, we will **[value]** because **[urgent why]**.
+> For **busy desk workers who forget to drink until they're already thirsty**, we will **make staying hydrated take almost no effort, with one-tap or automatic logging, a daily goal that adjusts to the weather and their workouts, and reminders timed to their routine**, because **free built-in health apps already cover basic logging, so less effort and a smarter goal are now the only reasons to pick us over them**.
 
 ## 6. Cold-read self-review
 
