@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1566 594" width="1566" height="594" role="img" aria-labelledby="t d">
+<title id="t">Water Tracking App: discovery mindmap</title>
+<desc id="d">Mindmap with eight branches: users, pain points, competition, opportunity bets, MVP features, business model, success metrics and risks.</desc>
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;dominant-baseline:central}
+.bg{fill:#ffffff;stroke:#e2e8f0}
+.leaf{font-size:14px;fill:#334155}
+.branch{font-size:15px;font-weight:600}
+.rootText{font-size:19px;font-weight:700;fill:#ffffff}
+.root{fill:#0369a1}
+.drop{fill:#bae6fd}
+.pill{stroke-width:1.5}
+.trunk{fill:none;stroke-width:3.5;stroke-linecap:round}
+.twig{fill:none;stroke-width:1.75;stroke-linecap:round;opacity:.75}
+.blue .pill{fill:#dbeafe;stroke:#3b82f6}.blue .branch{fill:#1e3a8a}.blue .trunk,.blue .twig{stroke:#3b82f6}.blue .dot{fill:#3b82f6}
+.red .pill{fill:#fee2e2;stroke:#ef4444}.red .branch{fill:#7f1d1d}.red .trunk,.red .twig{stroke:#ef4444}.red .dot{fill:#ef4444}
+.amber .pill{fill:#fef3c7;stroke:#d97706}.amber .branch{fill:#78350f}.amber .trunk,.amber .twig{stroke:#d97706}.amber .dot{fill:#d97706}
+.green .pill{fill:#dcfce7;stroke:#16a34a}.green .branch{fill:#14532d}.green .trunk,.green .twig{stroke:#16a34a}.green .dot{fill:#16a34a}
+.teal .pill{fill:#ccfbf1;stroke:#0d9488}.teal .branch{fill:#134e4a}.teal .trunk,.teal .twig{stroke:#0d9488}.teal .dot{fill:#0d9488}
+.violet .pill{fill:#ede9fe;stroke:#7c3aed}.violet .branch{fill:#4c1d95}.violet .trunk,.violet .twig{stroke:#7c3aed}.violet .dot{fill:#7c3aed}
+.pink .pill{fill:#fce7f3;stroke:#db2777}.pink .branch{fill:#831843}.pink .trunk,.pink .twig{stroke:#db2777}.pink .dot{fill:#db2777}
+.slate .pill{fill:#e2e8f0;stroke:#64748b}.slate .branch{fill:#1e293b}.slate .trunk,.slate .twig{stroke:#64748b}.slate .dot{fill:#64748b}
+@media (prefers-color-scheme: dark){
+.bg{fill:#0d1117;stroke:#30363d}
+.leaf{fill:#c9d1d9}
+.root{fill:#0284c7}
+.blue .pill{fill:#172554}.blue .branch{fill:#93c5fd}
+.red .pill{fill:#450a0a}.red .branch{fill:#fca5a5}
+.amber .pill{fill:#451a03}.amber .branch{fill:#fcd34d}
+.green .pill{fill:#052e16}.green .branch{fill:#86efac}
+.teal .pill{fill:#042f2e}.teal .branch{fill:#5eead4}
+.violet .pill{fill:#2e1065}.violet .branch{fill:#c4b5fd}
+.pink .pill{fill:#500724}.pink .branch{fill:#f9a8d4}
+.slate .pill{fill:#1e293b}.slate .branch{fill:#cbd5e1}
+}
+</style>
+<rect class="bg" x="0.5" y="0.5" width="1565" height="593" rx="14"/>
+<g class="blue">
+<path class="trunk" d="M886.7,297 C924.7,297 924.7,96 962.7,96"/>
+<path class="twig" d="M1046.1,96 C1119.4,96 1119.4,51 1192.6,51"/>
+<circle class="dot" cx="1192.6" cy="51" r="3.5"/>
+<text class="leaf" x="1202.6" y="51" text-anchor="start">Busy desk workers</text>
+<path class="twig" d="M1046.1,96 C1119.4,96 1119.4,81 1192.6,81"/>
+<circle class="dot" cx="1192.6" cy="81" r="3.5"/>
+<text class="leaf" x="1202.6" y="81" text-anchor="start">Athletes and gym-goers</text>
+<path class="twig" d="M1046.1,96 C1119.4,96 1119.4,111 1192.6,111"/>
+<circle class="dot" cx="1192.6" cy="111" r="3.5"/>
+<text class="leaf" x="1202.6" y="111" text-anchor="start">Older adults with weak thirst cues</text>
+<path class="twig" d="M1046.1,96 C1119.4,96 1119.4,141 1192.6,141"/>
+<circle class="dot" cx="1192.6" cy="141" r="3.5"/>
+<text class="leaf" x="1202.6" y="141" text-anchor="start">People on medical hydration plans</text>
+<rect class="pill" x="962.7" y="79" width="83.4" height="34" rx="17"/>
+<text class="branch" x="1004.4" y="96" text-anchor="middle">Users</text>
+</g>
+<g class="red">
+<path class="trunk" d="M886.7,297 C924.7,297 924.7,240 962.7,240"/>
+<path class="twig" d="M1088.4,240 C1140.5,240 1140.5,195 1192.6,195"/>
+<circle class="dot" cx="1192.6" cy="195" r="3.5"/>
+<text class="leaf" x="1202.6" y="195" text-anchor="start">Only drink once already thirsty</text>
+<path class="twig" d="M1088.4,240 C1140.5,240 1140.5,225 1192.6,225"/>
+<circle class="dot" cx="1192.6" cy="225" r="3.5"/>
+<text class="leaf" x="1202.6" y="225" text-anchor="start">Unsure how much is enough</text>
+<path class="twig" d="M1088.4,240 C1140.5,240 1140.5,255 1192.6,255"/>
+<circle class="dot" cx="1192.6" cy="255" r="3.5"/>
+<text class="leaf" x="1202.6" y="255" text-anchor="start">Logging feels like a chore</text>
+<path class="twig" d="M1088.4,240 C1140.5,240 1140.5,285 1192.6,285"/>
+<circle class="dot" cx="1192.6" cy="285" r="3.5"/>
+<text class="leaf" x="1202.6" y="285" text-anchor="start">Quit after the first week</text>
+<rect class="pill" x="962.7" y="223" width="125.7" height="34" rx="17"/>
+<text class="branch" x="1025.5" y="240" text-anchor="middle">Pain points</text>
+</g>
+<g class="amber">
+<path class="trunk" d="M886.7,297 C924.7,297 924.7,384 962.7,384"/>
+<path class="twig" d="M1098.1,384 C1145.3,384 1145.3,339 1192.6,339"/>
+<circle class="dot" cx="1192.6" cy="339" r="3.5"/>
+<text class="leaf" x="1202.6" y="339" text-anchor="start">Dedicated apps (WaterMinder, Plant Nanny)</text>
+<path class="twig" d="M1098.1,384 C1145.3,384 1145.3,369 1192.6,369"/>
+<circle class="dot" cx="1192.6" cy="369" r="3.5"/>
+<text class="leaf" x="1202.6" y="369" text-anchor="start">Smart bottles (HidrateSpark)</text>
+<path class="twig" d="M1098.1,384 C1145.3,384 1145.3,399 1192.6,399"/>
+<circle class="dot" cx="1192.6" cy="399" r="3.5"/>
+<text class="leaf" x="1202.6" y="399" text-anchor="start">Built-in health apps</text>
+<path class="twig" d="M1098.1,384 C1145.3,384 1145.3,429 1192.6,429"/>
+<circle class="dot" cx="1192.6" cy="429" r="3.5"/>
+<text class="leaf" x="1202.6" y="429" text-anchor="start">Workarounds: marked bottles, alarms</text>
+<rect class="pill" x="962.7" y="367" width="135.3" height="34" rx="17"/>
+<text class="branch" x="1030.4" y="384" text-anchor="middle">Competition</text>
+</g>
+<g class="green">
+<path class="trunk" d="M886.7,297 C924.7,297 924.7,513 962.7,513"/>
+<path class="twig" d="M1136.6,513 C1164.6,513 1164.6,483 1192.6,483"/>
+<circle class="dot" cx="1192.6" cy="483" r="3.5"/>
+<text class="leaf" x="1202.6" y="483" text-anchor="start">Near-zero-effort logging</text>
+<path class="twig" d="M1136.6,513 C1164.6,513 1164.6,513 1192.6,513"/>
+<circle class="dot" cx="1192.6" cy="513" r="3.5"/>
+<text class="leaf" x="1202.6" y="513" text-anchor="start">Goal adapts to weather and workouts</text>
+<path class="twig" d="M1136.6,513 C1164.6,513 1164.6,543 1192.6,543"/>
+<circle class="dot" cx="1192.6" cy="543" r="3.5"/>
+<text class="leaf" x="1202.6" y="543" text-anchor="start">Reminders timed to daily routines</text>
+<rect class="pill" x="962.7" y="496" width="173.8" height="34" rx="17"/>
+<text class="branch" x="1049.6" y="513" text-anchor="middle">Opportunity bets</text>
+</g>
+<g class="slate">
+<path class="trunk" d="M610.7,297 C572.7,297 572.7,96 534.7,96"/>
+<path class="twig" d="M455.3,96 C381.7,96 381.7,51 308.1,51"/>
+<circle class="dot" cx="308.1" cy="51" r="3.5"/>
+<text class="leaf" x="298.1" y="51" text-anchor="end">Logging fatigue drives churn</text>
+<path class="twig" d="M455.3,96 C381.7,96 381.7,81 308.1,81"/>
+<circle class="dot" cx="308.1" cy="81" r="3.5"/>
+<text class="leaf" x="298.1" y="81" text-anchor="end">Notification fatigue</text>
+<path class="twig" d="M455.3,96 C381.7,96 381.7,111 308.1,111"/>
+<circle class="dot" cx="308.1" cy="111" r="3.5"/>
+<text class="leaf" x="298.1" y="111" text-anchor="end">Health claims and overhydration</text>
+<path class="twig" d="M455.3,96 C381.7,96 381.7,141 308.1,141"/>
+<circle class="dot" cx="308.1" cy="141" r="3.5"/>
+<text class="leaf" x="298.1" y="141" text-anchor="end">Health data privacy</text>
+<rect class="pill" x="455.3" y="79" width="79.4" height="34" rx="17"/>
+<text class="branch" x="495" y="96" text-anchor="middle">Risks</text>
+</g>
+<g class="pink">
+<path class="trunk" d="M610.7,297 C572.7,297 572.7,240 534.7,240"/>
+<path class="twig" d="M364.1,240 C336.1,240 336.1,195 308.1,195"/>
+<circle class="dot" cx="308.1" cy="195" r="3.5"/>
+<text class="leaf" x="298.1" y="195" text-anchor="end">North star: days goal met per week</text>
+<path class="twig" d="M364.1,240 C336.1,240 336.1,225 308.1,225"/>
+<circle class="dot" cx="308.1" cy="225" r="3.5"/>
+<text class="leaf" x="298.1" y="225" text-anchor="end">D7 and D30 retention</text>
+<path class="twig" d="M364.1,240 C336.1,240 336.1,255 308.1,255"/>
+<circle class="dot" cx="308.1" cy="255" r="3.5"/>
+<text class="leaf" x="298.1" y="255" text-anchor="end">Logs per active day</text>
+<path class="twig" d="M364.1,240 C336.1,240 336.1,285 308.1,285"/>
+<circle class="dot" cx="308.1" cy="285" r="3.5"/>
+<text class="leaf" x="298.1" y="285" text-anchor="end">Guardrail: notification opt-outs</text>
+<rect class="pill" x="364.1" y="223" width="170.7" height="34" rx="17"/>
+<text class="branch" x="449.4" y="240" text-anchor="middle">Success metrics</text>
+</g>
+<g class="violet">
+<path class="trunk" d="M610.7,297 C572.7,297 572.7,369 534.7,369"/>
+<path class="twig" d="M370.7,369 C339.4,369 339.4,339 308.1,339"/>
+<circle class="dot" cx="308.1" cy="339" r="3.5"/>
+<text class="leaf" x="298.1" y="339" text-anchor="end">Free core tracking</text>
+<path class="twig" d="M370.7,369 C339.4,369 339.4,369 308.1,369"/>
+<circle class="dot" cx="308.1" cy="369" r="3.5"/>
+<text class="leaf" x="298.1" y="369" text-anchor="end">Premium insights and smart goals</text>
+<path class="twig" d="M370.7,369 C339.4,369 339.4,399 308.1,399"/>
+<circle class="dot" cx="308.1" cy="399" r="3.5"/>
+<text class="leaf" x="298.1" y="399" text-anchor="end">Corporate wellness programs</text>
+<rect class="pill" x="370.7" y="352" width="164.1" height="34" rx="17"/>
+<text class="branch" x="452.7" y="369" text-anchor="middle">Business model</text>
+</g>
+<g class="teal">
+<path class="trunk" d="M610.7,297 C572.7,297 572.7,498 534.7,498"/>
+<path class="twig" d="M388.4,498 C348.2,498 348.2,453 308.1,453"/>
+<circle class="dot" cx="308.1" cy="453" r="3.5"/>
+<text class="leaf" x="298.1" y="453" text-anchor="end">One-tap logging, custom cup sizes</text>
+<path class="twig" d="M388.4,498 C348.2,498 348.2,483 308.1,483"/>
+<circle class="dot" cx="308.1" cy="483" r="3.5"/>
+<text class="leaf" x="298.1" y="483" text-anchor="end">Personalized daily goal</text>
+<path class="twig" d="M388.4,498 C348.2,498 348.2,513 308.1,513"/>
+<circle class="dot" cx="308.1" cy="513" r="3.5"/>
+<text class="leaf" x="298.1" y="513" text-anchor="end">Smart reminders</text>
+<path class="twig" d="M388.4,498 C348.2,498 348.2,543 308.1,543"/>
+<circle class="dot" cx="308.1" cy="543" r="3.5"/>
+<text class="leaf" x="298.1" y="543" text-anchor="end">Streaks and home screen widgets</text>
+<rect class="pill" x="388.4" y="481" width="146.4" height="34" rx="17"/>
+<text class="branch" x="461.6" y="498" text-anchor="middle">MVP features</text>
+</g>
+<rect class="root" x="604.7" y="269" width="288" height="56" rx="28"/>
+<path class="drop" transform="translate(642.8,285)" d="M9,0 C9,0 0,10.5 0,16 A9,9 0 0 0 18,16 C18,10.5 9,0 9,0 Z"/>
+<text class="rootText" x="670.8" y="298">Water Tracking App</text>
+</svg>
